@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Milind Choudhary,
-- 👀 I’m interested in application of Machine Learning and Deep Learning in the field of healthcare and agriculture.
-- 💞️ I’m looking to collaborate on development of tailormade algorithms for real-world application
-- 📫 You can reach me at milindc02@gmail.com
+- 👋 Hi, I’m Milind Choudhary, a PhD student at University of Texas at Dallas
+- 👀 I’m interested in research involving NLP, Machine Learning and Multimodal Frameworks. 
+- 💞️ I’m looking to collaborate on development of novel algorithms for optimal results. I am also intrigued by the development tailormade algorithms for real-world application
+- 📫 You can reach me at milindc02@gmail.com or mxc210096@utdallas.edu
 
 <!---
 Milind21/Milind21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
