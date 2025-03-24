@@ -14,7 +14,7 @@ I am passionate about **ML/NLP research** and have contributed to the field thro
 
 ## 📫 Get in Touch  
 - 📧 Email: [milindc02@gmail.com](mailto:milindc02@gmail.com) | [mxc210096@utdallas.edu](mailto:mxc210096@utdallas.edu)  
-- 💼 [LinkedIn](#https://www.linkedin.com/in/mc02/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mc02/) 
 ---
 
 Let's connect and discuss AI, NLP, and all things ML! 🚀  
