@@ -27,7 +27,7 @@ Let's connect and discuss AI, NLP, and all things ML! 🚀
 ![](https://nirzak-streak-stats.vercel.app/?user=Milind21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Tickle Your Brain
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
