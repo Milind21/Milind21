@@ -1,7 +1,7 @@
 # Hi, I'm Milind! 👋  
 
 ## 🚀 About Me  
-I’m an **ML/NLP Engineer** at **DecisionLinks** and a **Master's student** at the **University of Texas at Dallas**. My work revolves around building intelligent systems that leverage **machine learning, natural language processing, and AI agents** to solve real-world problems.  
+I’m an **ML/NLP Engineer** at **DarkMath & DecisionLinks** and a **Master's student** at the **University of Texas at Dallas**. My work revolves around building intelligent systems that leverage **machine learning, natural language processing, and AI agents** to solve real-world problems.  
 
 ## 🔍 What I’m Working On  
 - **Vector Databases**: Optimizing retrieval for high-dimensional data.  
