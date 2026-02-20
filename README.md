@@ -7,7 +7,8 @@ I’m an **ML/NLP Research Engineer** at **DarkMath & DecisionLinks** and a **Ma
 - **Vector Databases**: Optimizing retrieval for high-dimensional data.  
 - **AI Agents**: Developing autonomous decision-making systems for a variety of tasks. 
 - **RAG-Based Systems**: Enhancing retrieval-augmented generation pipelines for production.  
-- **Applied NLP**: Exploring ways to bridge research and practical applications.  
+- **Applied NLP**: Exploring ways to bridge research and practical applications.
+- **ML/LLM Ops**: Creating E2E LLM and ML services.  
 
 ## 📚 Research & Publications  
 I am passionate about **ML/NLP research** and have contributed to the field through multiple publications. Check out my work on **[Google Scholar](https://scholar.google.com/citations?user=6ROWy2sAAAAJ&hl=en)**.  
