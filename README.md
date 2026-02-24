@@ -1,4 +1,4 @@
-# Hi, I'm Milind! 👋  
+# Hey, I'm Milind! 👋  
 
 ## 🚀 About Me  
 I’m an **ML/NLP Research Engineer** at **DarkMath & DecisionLinks** and a **Master's student** at the **University of Texas at Dallas**. My work revolves around building intelligent systems that leverage **machine learning, natural language processing, and AI agents** to solve real-world problems.  
