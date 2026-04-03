@@ -4,7 +4,8 @@
 I’m an **ML/NLP Research Engineer** at **DarkMath & DecisionLinks** and a **Master's student** at the **University of Texas at Dallas**. My work revolves around building intelligent systems that leverage **machine learning, natural language processing, and AI agents** to solve real-world problems.  
 
 ## 🔍 What I’m Working On  
-- **Vector Databases**: Optimizing retrieval for high-dimensional data.  
+- **Vector Databases**: Optimizing retrieval for high-dimensional data.
+- **Agentic Harness**: Architecting agent harness for reproducible and low-latency behavior. 
 - **AI Agents**: Developing agentic systems for a variety of tasks like coding, sales, etc.  
 - **RAG-Based Systems**: Enhancing retrieval-augmented generation pipelines for production.  
 - **Applied NLP**: Exploring ways to bridge research and practical applications.
