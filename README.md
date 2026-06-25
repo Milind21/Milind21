@@ -18,7 +18,6 @@ I am passionate about **ML/NLP research** and have contributed to the field thro
 
 Let's connect and discuss AI, NLP, and all things ML!  
 
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mc02) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/milindc02)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@milind21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milindc02@gmail.com) 
 
