@@ -1,7 +1,7 @@
 # Hey, I'm Milind! 
 
 ## About Me  
-An **ML/NLP Research Engineer** at **DarkMath & DecisionLinks** with a **Master's** from **University of Texas at Dallas**. My work revolves around building intelligent systems that leverage **machine learning, natural language processing, and AI agents** to solve real-world problems.  
+Im an **ML/NLP Research Engineer** at **DarkMath & DecisionLinks** with a **Master's** from **University of Texas at Dallas**. My work revolves around building intelligent systems that leverage **machine learning, natural language processing, and AI agents** to solve real-world problems.  
 
 ## 🔍 What I’m Working On  
 - **Vector Databases**: Optimizing retrieval for high-dimensional data.
